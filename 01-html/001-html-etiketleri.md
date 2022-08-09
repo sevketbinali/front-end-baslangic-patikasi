@@ -15,7 +15,7 @@
 
     <head> etiketi, site ziyaretçileri tarafından görülmesi gerekmeyen kodları içerir. Bu etiket altına yazılan kodlar genellikle arama motorları ve örümcekler (Crawler veya Spider diye geçer) içindir. Head etiketi altında bütün etiketleri kullanabilmeniz mümkün değil. Kullanabileceğiniz etiketler;
 
-    <title> (Bu etiketi kullanmak şarttır)
+    <title> (Bu etiketi kullanmak şarttır.)
     <meta>
     <style>
     <script>
