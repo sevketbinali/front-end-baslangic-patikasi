@@ -1,5 +1,3 @@
-
-
 ## Emmet ile Daha Hızlı HTML Yapıları Oluşturmak
 
 Emmet web geliştiricilerinin sıklıkla zamandan tasarruf etmek ve daha hızlı kod yazmak için kullandığı bir eklentidir. Emmet’in temel mantığı, yazılımcıya kodlama yaparken zaman kazandırmasıdır. Örneğin hepimiz bir html dosyasının iskeletini biliriz:
