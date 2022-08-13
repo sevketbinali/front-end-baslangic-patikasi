@@ -1,0 +1,37 @@
+/*Aciklama Satiri
+-1-2-3
+-4-5-6
+
+h2 {
+    color: blue;
+    font-size: 50px;
+}
+
+*/
+/************************************************ Layout ************************************************/
+body{
+
+    background-color: rgb(64, 28, 94);
+    color: white;
+    font-family: 'Silkscreen', cursive;
+}
+
+h2 {
+    color: red;
+    font-size:64px;
+    text-transform: uppercase;
+}
+
+p {
+    color: black; 
+    font-size: 30px;
+    text-transform: lowercase;
+    text-transform: none;
+    text-transform: uppercase;
+    text-transform: initial;
+}
+
+ul{
+    color: brown;
+
+}
