@@ -7,16 +7,10 @@
     font-family: 'Silkscreen', cursive;
 }
 
-#background {
-    background-image: url(background.png);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover; 
-}
 
 .konumortala-text {
     position:absolute;
+    text-shadow: 2px 2px #612897;
     top: 30%;
     left: 50%;
     right: 10%;
@@ -24,9 +18,14 @@
     font-family: 'Silkscreen', cursive;
 }
 
-.konumortala-p {
+.konumortala-p h3{
     position:absolute;
-    top: 42%;
+    color: #0C1E7F;
+    word-spacing: 350px;
+    text-shadow: 1px 2px#612897;
+    top: 45%;
+    left: 20%;
+    transform: translate(-00%, -50%);
     font-family: 'Silkscreen', cursive;
 }
 
