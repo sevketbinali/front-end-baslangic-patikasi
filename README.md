@@ -10,6 +10,10 @@
 
 ![project-1-css](https://github.com/sevketbinali/front-end-baslangic-patikasi/blob/main/02-css/project-1/img/Oyunlar%20_%20Pixel-Games_page-0001.jpg)
 
+### Project - 1 (About Us) (CSS)
+
+![project-1-css](https://github.com/sevketbinali/front-end-baslangic-patikasi/blob/main/02-css/project-1/img/Hakkımızda_page-0001.jpg)
+
 ### Project - 1 (HTML)
 
 ![project-1](https://github.com/sevketbinali/front-end-baslangic-patikasi/blob/main/01-html/project-1/images/Şevket%20Binali_page-0001-changed-size.jpg)
