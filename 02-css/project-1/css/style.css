@@ -8,6 +8,7 @@
 }
 
 
+
 .konumortala-text {
     position:absolute;
     text-shadow: 2px 2px #612897;
@@ -39,6 +40,24 @@
 
 }
 
+.image-profil {
+    
+    position: absolute;
+    top: 60%;
+    
+}
+
+aside{
+    position: absolute;
+    top:60%;
+    left:18.85%;
+    font-family: 'Silkscreen', cursive;
+   
+    padding: 10px;
+    width: 70%;
+    text-align: left;
+}
+
 nav ul {
     float: none;
     position: absolute;
@@ -54,6 +73,21 @@ nav ul {
 
 }
 
+section {
+
+    position: absolute;
+    top:20%;
+    font-family: 'Silkscreen', cursive;
+    border: 5px solid #612897;
+    padding: 100px;
+    text-align: center;
+
+}
+
+ul h1 a
+{
+    text-decoration:none;
+}
 nav li{
     float: left; 
     font-size: 22px;
@@ -84,7 +118,7 @@ footer {
     text-align: center;
     height: 4%;
     width: 99.2%;
-    background-color: #0C1E7F;
+    background-color: #612897;
     color: white;
     
   }
