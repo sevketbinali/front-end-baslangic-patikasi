@@ -77,3 +77,14 @@ nav li a:hover {
     color: white;
     
 }
+
+footer {
+    position:fixed;
+    bottom: 0%;
+    text-align: center;
+    height: 4%;
+    width: 99.2%;
+    background-color: #0C1E7F;
+    color: white;
+    
+  }
