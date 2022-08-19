@@ -1,0 +1,22 @@
+center{
+    text-align: center;
+    display: block;
+    margin: 0 60px;
+    padding: 10px;
+}
+
+.left{
+    float: left;
+}
+
+.br-gray {
+    background-color:#EEEEEE;
+    margin: 0 60px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    width: 37%;
+}
