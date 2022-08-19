@@ -16,7 +16,7 @@
 
 ### Project - 2 (CSS)
 
-![project-2-css](https://github.com/sevketbinali/front-end-baslangic-patikasi/blob/main/02-css/project-1/img/Google_page-0001.jpg)
+![project-2-css](https://github.com/sevketbinali/front-end-baslangic-patikasi/blob/main/02-css/project-2/img/Google_page-0001.jpg)
 
 ### Project - 1 (HTML)
 
